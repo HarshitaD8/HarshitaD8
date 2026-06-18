@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Harshita 👋
 
-<!--
-**HarshitaD8/HarshitaD8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Incoming Student
 
-Here are some ideas to get you started:
+- 💻 Currently Learning:
+    - CS50x
+    - Python
+    - C
+    - Git and Github
+    
+- 🌱 Exploring:
+    - Software Development
+    - Data Structures and Algorithms
+    - Mathematics and Computing
+    - Artificial Intelligence and Machine Learning
+    
+- 💬 Beyond Coding:
+    - Passionate about dance and performing arts
+    - 🏆 Featured in the Asia Book of Records for Bharatanatyam
+    - 🎶 Carnatic vocalist
+    - 🗣️ Avid debater and writer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Always curious, always teachable, and excited to learn!
